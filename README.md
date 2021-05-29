@@ -4,7 +4,7 @@ This project describes the experimentation conducted with data collected over ye
 
 The approaches used for experimentation and metrics:
 
-| Algorithm | #AUC-ROC |
+| Algorithm | AUC-ROC |
 | :---: | :---: |
 | Logistic Regression(LR) | 50.56 |
 | Boosted Logistic Regression | 59.61 |
