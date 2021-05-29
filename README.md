@@ -12,3 +12,11 @@ The approaches used for experimentation and metrics:
 | Random Forest(RF)| 73.45 |
 | K-Nearest Neighbors(KNN) | 61.85 |
 | Ensemble (LR,RF,KNN) | 62.7 |
+
+To run the code clone the project
+
+1. train.py is used for training - path to training data is required
+2. test.py is used for inference - path to test data and trained model file required
+
+Trained models for the above experiments are available at:
+https://drive.google.com/file/d/1HLquUEZ0iQDWMneXlTP5gZ54MSmFhxX9/view?usp=sharing 
